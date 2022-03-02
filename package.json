@@ -1,0 +1,31 @@
+{
+  "name": "shopee-scrap-cli",
+  "version": "1.0.0",
+  "description": "Scrapping shopee web with nodejs",
+  "bin": {
+    "shopee": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityamr15/shopee-scrap-cli.git"
+  },
+  "keywords": [
+    "shopee",
+    "cli",
+    "nodejs",
+    "scrapping"
+  ],
+  "author": "Aditya Meilaz Rahmanto <adityamr15@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adityamr15/shopee-scrap-cli/issues"
+  },
+  "homepage": "https://github.com/adityamr15/shopee-scrap-cli#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "chalk": "^4.1.2",
+    "cli-spinners": "^2.6.1",
+    "log-update": "^4.0.0",
+    "yargs": "^17.3.1"
+  }
+}
