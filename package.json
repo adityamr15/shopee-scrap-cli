@@ -1,6 +1,6 @@
 {
   "name": "shopee-scrap-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Scrapping shopee web with nodejs",
   "bin": {
     "shopee": "./bin/index.js"
